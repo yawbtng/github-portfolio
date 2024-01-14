@@ -1,4 +1,3 @@
 title: Yaw Boateng
-logo: assets/cropped headshot.jpg
-show_downloads: False
+logo: /assets/cropped headshot.jpg
 theme: jekyll-theme-cayman
