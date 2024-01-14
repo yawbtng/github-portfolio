@@ -36,7 +36,7 @@ March 2023 - May 2023
 
 PerunaBot is an advanced chatbot developed to provide streamlined access to a wide range of information for students and faculty at Southern Methodist University (SMU). It has a knowledge base of the entire university course and degree catalog, financial aid rules and deadlines, and important dates throughout the 2024 semester. Built using Python, this user-friendly chatbot integrates OpenAI's language model via LangChain for sophisticated language processing, along with Qdrant, a robust vector database, for efficient data management and retrieval. The project features an interactive interface created with ChainLit, for a ChatGPT like interface and similar user experience. The primary goal of PerunaBot is to streamline access to university information, making it more accessible and easier to navigate for the SMU community. By centralizing this information in a conversational interface, the project aims to enhance the overall educational experience, reduce information overload, and provide a reliable, up-to-date source of university information.
 
-![image](https://github.com/yawbtng/portfolio/blob/main/assets/Screenshot%202024-01-13%20192756.png)
+![image](https://github.com/yawbtng/portfolio/blob/main/assets/chatbot%20prototype%201%20pic.png)
 
 **Technical skills learned:**
 - Python Development: Mastery of Python for backend development, integrating various APIs, and data processing.
