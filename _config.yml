@@ -1,5 +1,4 @@
 title: Yaw Boateng
 logo: assets/cropped headshot.jpg
-description: text below image
-show_downloads: false
-theme: jekyll-theme-minimal
+show_downloads: True
+theme: jekyll-theme-cayman
