@@ -1,4 +1,4 @@
-![Yaw_Boateng_Headshot](https://github.com/yawbtng/portfolio/blob/main/assets/cropped%20headshot.jpg)
+![Yaw_Boateng_Headshot](assets/YawCroppedHeadshot.jpg)
 
 
 
