@@ -1,10 +1,10 @@
 # Yaw Boateng
 Freshman at Southern Methodist University studying Computer Engineering and Data Science and Aspiring Entrepreneur<br>
-[LinkedIn](http://www.linkedin.com/in/yaw-osei-boateng) &  [Resume]() 
+[LinkedIn](http://www.linkedin.com/in/yaw-osei-boateng) & [Resume](https://github.com/yawbtng/portfolio/blob/main/assets/Yaw%20Boateng%20Internship%20Resume%20w_%20tech%20skills%201-13-24.pdf) 
 
 # Education 
 Student at Southern Methodist University, May 2027                                               
-Computer Egnineering, BS
+Computer Egnineering, BS<br>
 Data Science, BS
 
 ## Skills 
@@ -36,7 +36,7 @@ March 2023 - May 2023
 
 PerunaBot is an advanced chatbot developed to provide streamlined access to a wide range of information for students and faculty at Southern Methodist University (SMU). It has a knowledge base of the entire university course and degree catalog, financial aid rules and deadlines, and important dates throughout the 2024 semester. Built using Python, this user-friendly chatbot integrates OpenAI's language model via LangChain for sophisticated language processing, along with Qdrant, a robust vector database, for efficient data management and retrieval. The project features an interactive interface created with ChainLit, for a ChatGPT like interface and similar user experience. The primary goal of PerunaBot is to streamline access to university information, making it more accessible and easier to navigate for the SMU community. By centralizing this information in a conversational interface, the project aims to enhance the overall educational experience, reduce information overload, and provide a reliable, up-to-date source of university information.
 
-![image]()
+![image](https://github.com/yawbtng/portfolio/blob/main/assets/Screenshot%202024-01-13%20192756.png)
 
 **Technical skills learned:**
 - Python Development: Mastery of Python for backend development, integrating various APIs, and data processing.
