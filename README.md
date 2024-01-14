@@ -1,11 +1,15 @@
-![image](https://github.com/yawbtng/portfolio/blob/main/assets/cropped%20headshot%20circle.png)
+![Yaw_Boateng_Headshot](https://github.com/yawbtng/portfolio/blob/main/assets/cropped%20headshot.jpg)
+
+
+
+
 
 # Yaw Boateng
 Freshman at Southern Methodist University studying Computer Engineering and Data Science and Aspiring Entrepreneur<br>
 [LinkedIn](http://www.linkedin.com/in/yaw-osei-boateng) & [Resume](https://github.com/yawbtng/portfolio/blob/main/assets/Yaw%20Boateng%20Internship%20Resume%20w_%20tech%20skills%201-13-24.pdf) 
 
 # Education 
-Student at Southern Methodist University, May 2027                                               
+Student at Southern Methodist University, May 2027                        
 Computer Egnineering, BS<br>
 Data Science, BS
 
