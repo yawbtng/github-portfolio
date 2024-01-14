@@ -1,4 +1,4 @@
-![Yaw_Boateng_Headshot](assets/YawCroppedHeadshot.jpg)
+![Yaw_Boateng_Headshot](/assets/YawCroppedHeadshot.jpg)
 
 
 
