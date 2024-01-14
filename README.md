@@ -1,13 +1,11 @@
 # Yaw Boateng
-Freshman at Southern Methodist University studying Computer Engineering and Data Science    
+Freshman at Southern Methodist University studying Computer Engineering and Data Science and Aspiring Entrepreneur<br>
 [LinkedIn](http://www.linkedin.com/in/yaw-osei-boateng) &  [Resume]() 
 
 # Education 
 Student at Southern Methodist University, May 2027                                               
 Computer Egnineering, BS
 Data Science, BS
-
-
 
 ## Skills 
 Programming Languages: Java, Python, R
@@ -16,15 +14,16 @@ Technical Skills/Software: Java Eclipse IDE, Visual Studio, R Studio, Microsoft 
 
 
 # Work Experience 
-**Nurovant AI** 		                                                                          
-**Software Engineering Intern**         
+**Nurovant AI** 		                                                
+**Software Engineering Intern/Vice President of Business Development**<br>
+September 2023 - Present         
 - Facilitate app testing, debugging, and communication with developers for product updates or new features
 - Executed targeting marketing campaigns through LinkedIn and Instagram for the launch of [Nurovant](https://www.nurovant.com/) which contributed to growth of over 500+ users within the first month
 
 
 **PhillWell Telehealth Services**        
-**Administrative Assistant**
-
+**Administrative Assistant**<br>
+March 2023 - May 2023
 - Managed and created workflow processes, including data filtering, calendar and email organization
 - Updated the company website, leading to an acquisition of 3 to 5 new potential patients weekly
 
@@ -35,11 +34,9 @@ Technical Skills/Software: Java Eclipse IDE, Visual Studio, R Studio, Microsoft 
 [Github repo](https://github.com/yawbtng/SMUChatBot_Project) <br>
 [Background behind the project](https://medium.com/@yabtngjr/the-story-behind-perunabot-fab78783ba09)
 
-
 PerunaBot is an advanced chatbot developed to provide streamlined access to a wide range of information for students and faculty at Southern Methodist University (SMU). It has a knowledge base of the entire university course and degree catalog, financial aid rules and deadlines, and important dates throughout the 2024 semester. Built using Python, this user-friendly chatbot integrates OpenAI's language model via LangChain for sophisticated language processing, along with Qdrant, a robust vector database, for efficient data management and retrieval. The project features an interactive interface created with ChainLit, for a ChatGPT like interface and similar user experience. The primary goal of PerunaBot is to streamline access to university information, making it more accessible and easier to navigate for the SMU community. By centralizing this information in a conversational interface, the project aims to enhance the overall educational experience, reduce information overload, and provide a reliable, up-to-date source of university information.
 
 ![image]()
-
 
 **Technical skills learned:**
 - Python Development: Mastery of Python for backend development, integrating various APIs, and data processing.
@@ -57,7 +54,7 @@ PerunaBot is an advanced chatbot developed to provide streamlined access to a wi
 - Improve accuracy of information retrieved by the chatbot and expand knowledge base
 - Give the chatbot a "personality" or instructions on how to respond more effectively and deal with out of scope questions
 
-### Customoer Bill Calculator (Java)
+### Customer Bill Calculator (Java)
 ***Fall 2023***
 
 The Customer Bill Calculator is a Java-based application designed to simulate and manage the inventory and billing processes of a store. Developed in Eclipse IDE, this project showcases the application of object-oriented programming (OOP) principles to create a robust and efficient system for handling inventory and customer transactions.
@@ -70,32 +67,36 @@ The Customer Bill Calculator is a Java-based application designed to simulate an
 - Billing System: Engineered a simple billing system capable of generating detailed customer bills with itemized subtotals, applicable taxes, and change calculations.
 
 
-# Leadership and Professional Development 
-**Management Leadership for Tomorrow (MLT)** 						                                    
-Career Preparation Fellow									                                              
--	Selected among thousands of high achieving applicants to participate in professional and leadership development
+# Professional Development & Community Involvement 
+**Consult Your Community** 						                                    
+Senior Business Analyst <br>
+August 2023 - Present
+-	Collaborate with other analysts to conduct business consulting and market research for small businesses in the Dallas-Fort Worth area
+-	Developed a comprehensive digital marketing strategy for a tea company to enhance brand awareness and grow social media presence
 
--	Complete business case studies and assignments to grow leadership and technical skills
 
--	Attend conferences hosted by industry leaders, such as Deloitte, LinkedIn, and Target
+**National Society of Black Engineers**			             	                  
+Member<br>
+August 2023 - Present
+-	Actively participate in bi-weekly meetings,  networking and learning from industry professionals and guest speakers
+- Attended the Region V Conference and engaged in the Hack-A-Thon and the Elevator Pitch Competition, demonstrating technical and communication skills
 
-**herScript(Black Women in Tech)**			             	               	                      
-Co-Founder & Co-President 								                                               
--	Facilitate and Initiate opportunities such as Workshops, Corporate Relationships, and Professional Development
 
--	Expose ways to apply the technology world to different industries such as healthcare and entertainment	
+**Association of Black Students**       			             	            
+Public Relations Chair<br>
+August 2023 - Present         								                             
+-	Utilize photography and videography skills to curate engaging social media content that fosters a strong sense of community
+- Collaborate in the planning and marketing of bi-weekly meetings and monthly events, improving member engagement and participation
 
--	Increasing the Black Women in Tech on campus by 40% by emphasizing personal development and authenticity 
 
-**Association of Black Computer Scientists**       			             	               	    
-Corporate Officer             								                                           
--	Facilitate and Initiate opportunities such as workshops, corporate relationships, and professional development
+**Data Scientist in Training Program at Rice University**<br>    	          Selected as 1 of 14 Student Programmers out of applicant pool of 100<br>
+June 2022 - Present					                                           
+-	Analyzed large, structured and unstructured data in R & RStudio through visualization techniques to find causality and form practical conclusions
+-	Networked with experts from Fortune 500 companies and credible National Science Foundation funded university professors
 
--	Coordinate and execute hackathons and personal projects for members to become well rounded
 
-# Interests 
-Languages: Fluent in Spanish, Twi 
+# More Info 
+**Honors & Awards**: SMU Presidential Scholarship, [SMU Big iDeas Business Pitch Competition Award ($1,000)](https://blog.smu.edu/saes/2023/09/29/congratulations-to-the-2023-big-ideas-pitch-contest-winners/)
 
-Interests: Artificial Intelligence, Data Science, Quantitative UX Research, Business Technology Solutions, HealthTech
+**Interests**: Generative AI Applications, Data Science, Entrepreneurship, Technology Consulting, Business Technology Solutions
 
-Work Eligibility: Eligible to work in the U.S. with no restrictions
